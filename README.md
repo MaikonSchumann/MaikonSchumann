@@ -11,13 +11,6 @@ I am always up to learn more, whether it is about geeking out over code, playing
 Feel free to get in touch if you have anything on your mind. I'm super excited to take all that I've learned and dive into whatever comes my way!
 <br>
 <br>
-### 📫  Let's stay connected!
-<a href="https://www.linkedin.com/in/maikon-schumann" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-[![Gmail: Maikon Schumann](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maikon.schumann@gmail.com)](mailto:maikon.schumann@gmail.com)
-<a href="https://discord.gg/maikon_schumann" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href="https://github.com/MaikonSchumann" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" target="_blank"></a>
-<br>
-<br>
 ### ⚡ My GitHub Public Stats
 <br>
 
@@ -35,4 +28,16 @@ Feel free to get in touch if you have anything on your mind. I'm super excited t
 #### Tech stack :
 
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node&logoColor=white&style=flat)
+
+<!--![Profile views](https://komarev.com/ghpvc/?username=MaikonSchumann&label=Profile%20views&color=EF2D5E&style=flat) -->
+
+<h2 align="center">📫 Let's stay Connected!</h2>
+<div align = "center">
+
+<a href="https://www.linkedin.com/in/maikon-schumann" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+[![Gmail: Maikon Schumann](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:maikon.schumann@gmail.com)](mailto:maikon.schumann@gmail.com)
+<a href="https://discord.gg/maikon_schumann" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://github.com/MaikonSchumann" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" target="_blank"></a>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:238636,100:0d1118&section=footer"/>
