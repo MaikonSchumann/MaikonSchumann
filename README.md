@@ -17,8 +17,8 @@ Feel free to get in touch if you have anything on your mind. I'm super excited t
 <!-- ### ⚡ My GitHub Public Stats -->
 <br>
 <p align="center">
-  <img height="200em" max-width=60% src="https://github-readme-stats.vercel.app/api?username=MaikonSchumann&show_icons=true&theme=radical&bg_color=0d1118&hide_border=true"/>
-  <img height="200em" max-width=39% src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikonSchumann&layout=compact&langs_count=6&theme=radical&bg_color=0d1118&hide_border=true"/>
+  <img height="200em" max-width=50% src="https://github-readme-stats.vercel.app/api?username=MaikonSchumann&show_icons=true&theme=radical&bg_color=0d1118&hide_border=true"/>
+  <img height="200em" max-width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaikonSchumann&layout=compact&langs_count=6&theme=radical&bg_color=0d1118&hide_border=true"/>
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaikonSchumann&bg_color=0d1118&color=238636&line=238636&point=FE428E&area=true&hide_border=true&title_color=FE428E)](https://github.com/ashutosh00710/github-readme-activity-graph)
