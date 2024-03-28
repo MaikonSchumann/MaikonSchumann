@@ -2,7 +2,7 @@
 
 ## Maikon Schumann
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&height=38&pause=2500&color=238636&width=900&lines=>/+On+my+way+to+becoming+a+Full+Stack+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&height=55&pause=2500&color=238636&width=1200&lines=>/+On+my+way+to+becoming+a+Full+Stack+Developer!)](https://git.io/typing-svg)
 
 I am currently enrolled in the Full Stack Web Development program at Code Institute, based in Dublin, Ireland. My studies goes along a range of technologies including HTML, CSS, JavaScript, and Python, complemented by tools such as Django, Bootstrap, and jQuery.
 
@@ -12,7 +12,7 @@ Feel free to get in touch if you have anything on your mind. I'm super excited t
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&height=38&pause=2500&color=238636&width=900&lines=>/+My+Github+Public+Stats)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&height=38&pause=2500&color=238636&width=900&lines=>/+My+Github+Public+Stats:)](https://git.io/typing-svg)
 
 <!-- ### ⚡ My GitHub Public Stats -->
 <br>
@@ -25,20 +25,24 @@ Feel free to get in touch if you have anything on your mind. I'm super excited t
 
 <!-- #### Languages : -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&height=36&pause=2500&color=238636&width=300&lines=>/+Languages:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&height=36&pause=2500&color=238636&width=300&lines=>/+Languages:)](https://git.io/typing-svg)
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-0f72b7?logo=css3&logoColor=white&style=flat)
 
 <!-- #### Tech stack : -->
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&height=36&pause=2500&color=238636&width=300&lines=>/+Tech+Stack:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&height=36&pause=2500&color=238636&width=300&lines=>/+Tech+Stack:)](https://git.io/typing-svg)
 
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node&logoColor=white&style=flat)
 
 <!--![Profile views](https://komarev.com/ghpvc/?username=MaikonSchumann&label=Profile%20views&color=EF2D5E&style=flat) -->
 
-<h2 align="center">📫 Let's Connect!</h2>
+<div align = "center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&height=36&pause=2500&color=238636&width=300&lines=>/+Let's+Connect!)](https://git.io/typing-svg)
+
+</div>
 <div align = "center">
 
 <a href="https://www.linkedin.com/in/maikon-schumann" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
