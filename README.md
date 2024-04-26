@@ -29,6 +29,7 @@ Feel free to get in touch if you have anything on your mind. I'm super excited t
   <img align='center' alt='Maikon-CSS' height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align='center' alt='Maikon-JS' height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align='center' alt='Maikon-Python' height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align='center' alt='Maikon-SQL' height=30 width=40 src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
 </div>
 
 ##
@@ -41,6 +42,12 @@ Feel free to get in touch if you have anything on your mind. I'm super excited t
   <img align='center' alt='Maikon-Django' height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
   <img align='center' alt='Maikon-Git' height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
   <img align='center' alt='Maikon-Nodejs' height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align='center' alt='Maikon-Flask' height=30 width=40 src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
+  <img align='center' alt='Maikon-Jest' height=30 width=40 src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
+
+
+   
+  
 </div>
 
 ##
